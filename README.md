@@ -1,61 +1,80 @@
-Business Sales Analytics
+Sales Performance Summary
 
 
 
-Total Sales = X -2297201
+Total Sales: 2,297,201
+
+Total Profit: 286,397
 
 
 
-Total Profit = Y - 286397
+Category Performance
+
+Technology generates the highest sales (836,154), making it the strongest performing category.
+
+Furniture and Office Supplies contribute relatively similar but lower sales.
 
 
 
-Product Categories + sum of sales:
-Furniture,	742000
+&#x20;Insight:
 
-Office Supplies,	719047
-
-Technology,	836154
-
-Best Category = Technology
+Technology should be prioritized for growth and investment.
 
 
-Regions + sum of sales:
-Central,	501240
 
-East,	678781
+Regional Performance
 
-South,	391722
+The West region generates the highest sales (725,458), followed by the East.
 
-West,	725458
-
-Best Region = West Region
+The South region has the lowest sales performance.
 
 
-Top 10 Products:
-Canon imageCLASS 2200 Advanced Copier,	61600
 
-Cisco TelePresence System EX90 Videoconferencing Unit,	22638
+&#x20;Insight:
 
-Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,	27453
+The business performs strongest in the West, suggesting higher demand or better market penetration there.
 
-GBC DocuBind P400 Electric Binding System,	17965
 
-GBC DocuBind TL300 Electric Binding System,	19823
 
-GBC Ibimaster 500 Manual ProClick Binding System,	19025
+Top Products
 
-Hewlett Packard LaserJet 3310 Copier,	18840
+The Canon imageCLASS 2200 Advanced Copier is the top-performing product.
 
-High Speed Automatic Electric Letter Opener,	17030
+Several high-performing products are from the Technology category.
 
-HON 5400 Series Task Chairs for Big and Tall,	21871
 
-HP Designjet T520 Inkjet Large Format Printer - 24" Color,	18375
 
-Top Products = Canon imageCLASS 2200 Advanced Copier
+&#x20;Insight:
 
-&#x09;
+A small group of high-value products contributes significantly to revenue.
 
-Trend = ...
+
+
+Sales Trend Over Time
+
+Sales decreased slightly from 2014 to 2015, then showed strong growth from 2015 to 2017.
+
+2017 recorded the highest sales overall.
+
+
+
+&#x20;Insight:
+
+The business shows a clear upward growth trend after 2015.
+
+
+
+Seasonality \& Demand Patterns
+
+Sales consistently peak in September, November, and December.
+
+The last quarter of the year (Q4) shows the highest sales activity.
+
+Lower sales are observed at the beginning of each year (Q1).
+
+
+
+&#x20;Insight:
+
+There is strong seasonal demand toward the end of the year, likely driven by increased purchasing activity.
 
